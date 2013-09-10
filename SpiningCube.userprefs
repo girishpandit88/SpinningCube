@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spin.cs">
+    <Files>
+      <File FileName="../Downloads/Build.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/Spin.cs" Line="17" Column="4" />
+      <File FileName="Assets/Editor/Build.cs" Line="34" Column="46" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/SmoothFollow2D.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
